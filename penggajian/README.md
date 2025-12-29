@@ -1,9 +1,32 @@
-Copyright (c) 2020 Farizal Hendra Putra Kusuma
+# Aplikasi Penggajian Karyawan Berbasis Web
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Aplikasi Penggajian Karyawan Berbasis Web merupakan sistem informasi yang digunakan untuk membantu proses pengelolaan gaji karyawan secara terkomputerisasi. Aplikasi ini dibuat untuk mempermudah pihak administrasi atau HRD dalam mengelola data karyawan, menghitung gaji, tunjangan, serta potongan secara akurat dan efisien.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Aplikasi ini dikembangkan sebagai bagian dari tugas perkuliahan dan bertujuan untuk menerapkan konsep pengembangan aplikasi berbasis web menggunakan PHP dan MySQL.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## Fitur Aplikasi
+- Manajemen data karyawan  
+- Pengelolaan data jabatan  
+- Pengelolaan tunjangan dan potongan  
+- Perhitungan gaji karyawan  
+- Cetak dan lihat slip gaji  
+- Sistem login dan hak akses pengguna  
 
-Source code ini HANYA DAPAT DIGUNAKAN untuk member G-Technology dan tidak diizinkan untuk disebarkan kepada pihak selain member.
+## Teknologi yang Digunakan
+- PHP  
+- MySQL  
+- HTML, CSS, dan JavaScript  
+- Web Server (XAMPP)
+
+## Tujuan Pengembangan
+- Mempermudah proses penggajian karyawan  
+- Mengurangi kesalahan perhitungan gaji  
+- Meningkatkan efisiensi dan akurasi data  
+- Sebagai media pembelajaran dalam pengembangan aplikasi web  
+
+## Dibuat Oleh
+Nama : Nouval Fadillah  
+Tahun : 2025  
+
+## Catatan
+Aplikasi ini dikembangkan untuk keperluan pembelajaran dan tugas akademik.
